@@ -1,0 +1,4 @@
+build-linux/*
+!build-linux/grid_generator
+
+.vscode
